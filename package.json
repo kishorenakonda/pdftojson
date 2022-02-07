@@ -1,0 +1,19 @@
+{
+  "name": "pdftojson",
+  "version": "1.0.0",
+  "description": "PDF TO JSON CONVERTOR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf",
+    "json",
+    "convertor"
+  ],
+  "author": "kishore kumar",
+  "license": "MIT",
+  "dependencies": {
+    "pdf2json": "^2.0.0"
+  }
+}
